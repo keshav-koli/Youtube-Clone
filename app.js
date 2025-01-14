@@ -93,8 +93,8 @@ togglebutton.addEventListener("click", () => {
 
 // REFERENCE LINK: https://developers.google.com/youtube/v3/docs/search
 
-const API_KEY = "AIzaSyC40f8_wSV1XpxKb-h8vNDh2hQ1bIlfq4c";
-// const API_KEY = "AIzaSyChL3R4VdC639_f-9RPDCSvSYVVns-PRQA ";
+const API_KEY = "";
+// const API_KEY = " ";
 const SEARCH_HTTP = "https://www.googleapis.com/youtube/v3/search?"; // remember ? symbol
 const CHANNEL_HTTP = " https://www.googleapis.com/youtube/v3/channels?";
 const VIDEO_DETAILS = "https://www.googleapis.com/youtube/v3/videos?";
